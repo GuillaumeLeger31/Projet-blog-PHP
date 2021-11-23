@@ -1,4 +1,4 @@
-# Création d'un réseau social avec PHP & MySQL. 
+# Création d'un blog avec PHP & MySQL. 
 
 
 ## prérequis
