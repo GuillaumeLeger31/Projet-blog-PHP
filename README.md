@@ -1,3 +1,7 @@
-# Projet-blog-v1
+# Création d'un réseau social avec PHP & MySQL. 
 
-Réalisation d'un blog en PHP.
+
+## prérequis
+
+* Installer PHP
+* Installer MySQL
